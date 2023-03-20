@@ -11,8 +11,7 @@
 		<li>Viewset, Urls e requisições GET e POST</li>
 		<li>ListAPIView e Autenticação</li>
 	</ul>
-less
-Copy code
+
 <h2>Instalação</h2>
 <p>Para instalar o Django Rest Framework, utilize o seguinte comando:</p>
 <code>pip install djangorestframework</code>
@@ -27,8 +26,7 @@ INSTALLED_APPS = [
 ]
 </pre>
 
-css
-Copy code
+
 <h2>Modelos, Admin e Serializers</h2>
 <p>Neste projeto, foram utilizados modelos do Django para definir a estrutura dos dados a serem manipulados. A interface de administração padrão do Django foi utilizada para gerenciar esses dados. Além disso, foram criados Serializers para garantir a integridade dos dados na manipulação via API.</p>
 
