@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> README </title>
+	<h1>README</h1>
 </head>
 <body>
 	<h1>Este projeto foi desenvolvido utilizando as seguintes tecnologias:</h1>
